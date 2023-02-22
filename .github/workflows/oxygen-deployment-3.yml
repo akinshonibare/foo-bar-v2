@@ -2,7 +2,7 @@
 #! oxygen_storefront_id: 3
 
 name: Storefront 3
-on: [push]
+on: [push, workflow_dispatch]
 
 permissions:
   contents: read
